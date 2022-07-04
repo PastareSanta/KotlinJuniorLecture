@@ -32,7 +32,7 @@ fun tryDataTypes() {
     myLong = myInt.toLong()
     val longerVar = 123456789123
     val intVar: Int = longerVar.toInt()
-    println(intVar)
+//    println(intVar)
 
     var nullString: String? = null
 }
